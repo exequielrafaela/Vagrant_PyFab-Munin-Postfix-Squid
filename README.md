@@ -1,6 +1,10 @@
 # Vagrant_PyFab-Munin-Postfix-Squid
 Vagrant + Python Fabrico to provision: Munin Monitoring Service, Postfix Internet Email Service, Squid HTTP Proxy, Apache2 Web Server, IPTables FW, NFS (Network File System) and Logrotate
 
+Just clone and then "vagrant up"
+
+Enjoy!
+
 Parcial II
 
 El trabajo práctico II consiste en las siguientes tareas:
